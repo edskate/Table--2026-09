@@ -1650,16 +1650,72 @@
                         {
                             "sessionInfo": {
                                 "id": "8f2720ec-f9c5-4bb6-b34b-9efc8819a058",
-                                "duration": 1247889,
-                                "idle": 8654876,
+                                "duration": 1868907,
+                                "idle": 9555039,
                                 "state": "Idle",
                                 "durations": [
+                                    {
+                                        "id": "bf696487-a339-4398-8f1a-3a1f6ae9bbca",
+                                        "state": "Idle",
+                                        "begin": 1790289600898,
+                                        "end": 1790289600898,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "d7d97b11-11a3-4070-887e-2bf53c5af856",
+                                        "state": "Ongoing",
+                                        "begin": 1790289301595,
+                                        "end": 1790289600898,
+                                        "duration": 299303
+                                    },
+                                    {
+                                        "id": "963d0d63-3cbb-463e-be73-1ceb0fdffd65",
+                                        "state": "Idle",
+                                        "begin": 1790289300897,
+                                        "end": 1790289301595,
+                                        "duration": 698
+                                    },
+                                    {
+                                        "id": "a246deb2-9157-49b9-8724-15e5a5e7b646",
+                                        "state": "Ongoing",
+                                        "begin": 1790289199039,
+                                        "end": 1790289300897,
+                                        "duration": 101858
+                                    },
+                                    {
+                                        "id": "2637e55e-2b9a-462e-a914-e457f7209319",
+                                        "state": "Idle",
+                                        "begin": 1790288983187,
+                                        "end": 1790289199039,
+                                        "duration": 215852
+                                    },
+                                    {
+                                        "id": "38794607-4d61-4fc5-abba-e35d8d0de193",
+                                        "state": "Ongoing",
+                                        "begin": 1790288819225,
+                                        "end": 1790288983187,
+                                        "duration": 163962
+                                    },
+                                    {
+                                        "id": "184d2ff9-d233-4632-9a65-111a4dfc1f48",
+                                        "state": "Idle",
+                                        "begin": 1790288786627,
+                                        "end": 1790288819225,
+                                        "duration": 32598
+                                    },
+                                    {
+                                        "id": "e438da9f-596e-45d3-912d-78ef6ccc85ee",
+                                        "state": "Ongoing",
+                                        "begin": 1790288730732,
+                                        "end": 1790288786627,
+                                        "duration": 55895
+                                    },
                                     {
                                         "id": "ec3f4000-dc29-421f-9cc9-87768929837a",
                                         "state": "Idle",
                                         "begin": 1790288700882,
-                                        "end": 1790288700882,
-                                        "duration": 0
+                                        "end": 1790288730732,
+                                        "duration": 29850
                                     },
                                     {
                                         "id": "0cd26bad-b7fd-438a-a1d7-c483acae890e",
@@ -2007,7 +2063,8 @@
                                 ],
                                 "filesExt": [
                                     "",
-                                    ".html"
+                                    ".html",
+                                    ".css"
                                 ]
                             },
                             "actionType": "Idle"
