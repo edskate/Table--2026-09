@@ -24,7 +24,9 @@
     },
     "data": [
         {
-            "config": false,
+            "config": {
+                "showIdle": false
+            },
             "user": "edskate",
             "dailySessions": [
                 {
@@ -125,7 +127,7 @@
                                 "id": "6d8d4fd9-1114-4653-9c6e-96642b2e7656",
                                 "duration": 5373128,
                                 "idle": 15295539,
-                                "state": "Ongoing",
+                                "state": "Ended",
                                 "durations": [
                                     {
                                         "id": "269847c0-dce4-4a4c-a4aa-1467f67ea7c3",
@@ -1555,6 +1557,19 @@
                                 ]
                             },
                             "actionType": "Codding"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "6cd3ac41-d21a-4540-a164-c5b7449562cd",
+                                "duration": 0,
+                                "idle": 0,
+                                "state": "Idle",
+                                "durations": [],
+                                "filesExt": [
+                                    ""
+                                ]
+                            },
+                            "actionType": "Idle"
                         }
                     ]
                 }
