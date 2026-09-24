@@ -24,9 +24,7 @@
     },
     "data": [
         {
-            "config": {
-                "showIdle": false
-            },
+            "config": false,
             "user": "edskate",
             "dailySessions": [
                 {
@@ -1567,6 +1565,82 @@
                                 "durations": [],
                                 "filesExt": [
                                     ""
+                                ]
+                            },
+                            "actionType": "Idle"
+                        }
+                    ]
+                },
+                {
+                    "date": "Thu Sep 24 2026",
+                    "sessions": [
+                        {
+                            "sessionInfo": {
+                                "id": "7cd8902e-566e-4990-9343-761ae1b17af3",
+                                "duration": 804532,
+                                "idle": 860804,
+                                "state": "Idle",
+                                "durations": [
+                                    {
+                                        "id": "80036bc7-a1f4-4916-808b-e25fa75f7bf2",
+                                        "state": "Idle",
+                                        "begin": 1790221975609,
+                                        "end": 1790221975609,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "36c3f0db-63c6-4949-a360-22e187edae7c",
+                                        "state": "Ongoing",
+                                        "begin": 1790221917879,
+                                        "end": 1790221975609,
+                                        "duration": 57730
+                                    },
+                                    {
+                                        "id": "cad875ed-b617-4103-b173-a0ff7ded3004",
+                                        "state": "Idle",
+                                        "begin": 1790221870917,
+                                        "end": 1790221917879,
+                                        "duration": 46962
+                                    },
+                                    {
+                                        "id": "3a13c6ef-4a39-44b8-95ef-32aed7c1f97e",
+                                        "state": "Ongoing",
+                                        "begin": 1790221683645,
+                                        "end": 1790221870917,
+                                        "duration": 187272
+                                    },
+                                    {
+                                        "id": "266f7ed8-a8fd-4dd6-8685-e11aeba801dd",
+                                        "state": "Idle",
+                                        "begin": 1790221675596,
+                                        "end": 1790221683645,
+                                        "duration": 8049
+                                    },
+                                    {
+                                        "id": "42b1226c-b2e8-4944-bffb-6aaa7ba86ce4",
+                                        "state": "Ongoing",
+                                        "begin": 1790221376835,
+                                        "end": 1790221675596,
+                                        "duration": 298761
+                                    },
+                                    {
+                                        "id": "cb1a53c6-5692-4402-849f-edccb2474c00",
+                                        "state": "Idle",
+                                        "begin": 1790221375591,
+                                        "end": 1790221376835,
+                                        "duration": 1244
+                                    },
+                                    {
+                                        "id": "32daf8f8-1d8b-4d1d-ace9-231ba55251eb",
+                                        "state": "Ongoing",
+                                        "begin": 1790221114822,
+                                        "end": 1790221375591,
+                                        "duration": 260769
+                                    }
+                                ],
+                                "filesExt": [
+                                    "",
+                                    ".html"
                                 ]
                             },
                             "actionType": "Idle"
