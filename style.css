@@ -5,11 +5,12 @@
         }
         i {
             font-style: italic;
-            color: Blue;
+            color: rgb(169, 169, 193);
             text-decoration: underline;
             text-shadow: 1px 1px 2px gray;
             font-size: larger;
             margin: 20px;
+            font-size: 20px;
         }
    
      body {
@@ -27,5 +28,19 @@
             
           
             
+        }
+        p {
+            color: white;
+            text-align: center;
+            text-shadow: 1px 1px 2px gray;
+            margin: 10px 0;
+    }
+        a {
+            color: white;
+            text-align: center;
+            text-decoration: none;
+            text-shadow: 1px 1px 2px gray;
+            display: block;
+            margin: 20px 0;
         }
  
