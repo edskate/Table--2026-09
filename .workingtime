@@ -24,7 +24,9 @@
     },
     "data": [
         {
-            "config": false,
+            "config": {
+                "showIdle": false
+            },
             "user": "edskate",
             "dailySessions": [
                 {
@@ -4488,6 +4490,70 @@
                                 ]
                             },
                             "actionType": "Idle"
+                        },
+                        {
+                            "sessionInfo": {
+                                "id": "6bc8763a-43e7-4aee-a0d0-dcd7ba0abd5b",
+                                "duration": 567448,
+                                "idle": 899529,
+                                "state": "Ongoing",
+                                "durations": [
+                                    {
+                                        "id": "026fae6d-7bf5-45e3-a927-64c36d4639fc",
+                                        "state": "Ongoing",
+                                        "begin": 1790509503033,
+                                        "end": 1790509503033,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "095bb7ec-4d27-4e63-84bb-a50db3515886",
+                                        "state": "Idle",
+                                        "begin": 1790509501437,
+                                        "end": 1790509503033,
+                                        "duration": 1596
+                                    },
+                                    {
+                                        "id": "328b0d79-4817-4d58-b514-6ae17e5f85dc",
+                                        "state": "Ongoing",
+                                        "begin": 1790509496393,
+                                        "end": 1790509501437,
+                                        "duration": 5044
+                                    },
+                                    {
+                                        "id": "7f2e8966-1328-4066-b31c-b1ed1bdb95c9",
+                                        "state": "Idle",
+                                        "begin": 1790509487816,
+                                        "end": 1790509496393,
+                                        "duration": 8577
+                                    },
+                                    {
+                                        "id": "37550604-9c99-4569-962d-9f43dd0d07b5",
+                                        "state": "Ongoing",
+                                        "begin": 1790509472036,
+                                        "end": 1790509487816,
+                                        "duration": 15780
+                                    },
+                                    {
+                                        "id": "745108d8-619d-4506-b5fa-bf1eea55fcb9",
+                                        "state": "Idle",
+                                        "begin": 1790509150128,
+                                        "end": 1790509472036,
+                                        "duration": 321908
+                                    },
+                                    {
+                                        "id": "a573527a-a76e-4baf-b96c-a2a114fb69ad",
+                                        "state": "Ongoing",
+                                        "begin": 1790508901897,
+                                        "end": 1790509150128,
+                                        "duration": 248231
+                                    }
+                                ],
+                                "filesExt": [
+                                    "c:\\Users\\EDY\\Documents\\GitHub\\Table -2026-09\\Table -2026-09\\dex",
+                                    ".html"
+                                ]
+                            },
+                            "actionType": "Codding"
                         }
                     ]
                 }
