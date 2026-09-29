@@ -24,9 +24,7 @@
     },
     "data": [
         {
-            "config": {
-                "showIdle": false
-            },
+            "config": false,
             "user": "edskate",
             "dailySessions": [
                 {
@@ -4812,6 +4810,39 @@
                                     ".html",
                                     ".auto-rename-tag-#1-Auto Rename Tag",
                                     "\\\\Git History"
+                                ]
+                            },
+                            "actionType": "Idle"
+                        }
+                    ]
+                },
+                {
+                    "date": "Mon Sep 28 2026",
+                    "sessions": [
+                        {
+                            "sessionInfo": {
+                                "id": "b7a411da-1af2-4db2-a805-7811cf948551",
+                                "duration": 283447,
+                                "idle": 11406014,
+                                "state": "Idle",
+                                "durations": [
+                                    {
+                                        "id": "eb481d58-c7fd-499c-8ef0-f7787d333cac",
+                                        "state": "Idle",
+                                        "begin": 1790636389492,
+                                        "end": 1790636389492,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "0c226386-7de1-41e0-b4b6-af8f53f51645",
+                                        "state": "Ongoing",
+                                        "begin": 1790636106045,
+                                        "end": 1790636389492,
+                                        "duration": 283447
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".html"
                                 ]
                             },
                             "actionType": "Idle"
